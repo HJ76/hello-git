@@ -1,0 +1,17 @@
+       GIT COMMANDS
+1. init
+       git init- To initialize a git repository
+       syntax- git init
+2. status
+       git status- To check status of repository anytime
+       syntax- git status
+3. add
+       git add- Tel git to track your changes
+       syntax- git add filename.txt
+4. commit
+       git commit- Tell git tocreate a checkpoint/version
+       syntax- git commit -m(for message) "info about committing changes"
+5. push
+       git push- To upload project to the GitHub
+       syntax - git remote add origin "address.git"
+                git push -u origin master
